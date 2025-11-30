@@ -118,13 +118,13 @@ Trigger DAG
 
 # 5. Evidence
 
-![Alt text](screenshots\dag.png "DAG Running")
+![Alt text](screenshots/dag.png "DAG Running")
 
-![Alt text](screenshots\dashboard1.png "Dashboard1")
+![Alt text](screenshots/dashboard1.png "Dashboard1")
 
-![Alt text](screenshots\dashboard2.png "Dashboard2")
+![Alt text](screenshots/dashboard2.png "Dashboard2")
 
-![Alt text](screenshots\dashboard3.png "Dashboard3")
+![Alt text](screenshots/dashboard3.png "Dashboard3")
 
 # 6. Dashboard & Insights
 
@@ -157,3 +157,4 @@ streamlit run app.py
 Dashboard runs at:
 
 http://localhost:8501
+
